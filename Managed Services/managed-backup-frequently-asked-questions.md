@@ -77,10 +77,6 @@ A:  In order to make sure you are using only the amount of backup storage that y
 
 The CenturyLink Technology Solutions Client Service Center is also available to assist you with any issues you may have 24 hours a day, 7 days a week, and 365 days a year. Simply call us at 1-888-638-6771.
 
-**Q: What if I want my backups to be kept for longer than two weeks?**
-
-A:  If you would like to change the default two-week retention schedule for your backups, you may contact the CenturyLink Technology Solutions Client Service Center at 1-888-638-6771 and enter a request to customize the retention period for a particular server or set of servers. A few different retention periods are available to choose from.
-
 **Q: What should I do if I need a restore?**
 
 A: Contact the CenturyLink Technology Solutions Client Service Center at 1-888-638-6771.
